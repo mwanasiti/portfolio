@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mariam</h1>
 <!-- Recent graduate from Jomo Kenyatta and Moringa School respectively where i pursued BBITM and software engineering respectively, excited to start my internship experience -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">A partner of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">Former of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
@@ -47,26 +47,23 @@
 
 ### Get to know me
 
-💬 I'm an expert on **software architectures for Google Cloud, AWS and/or Azure.**
+💬 I am conversant with cybersecurity technologies i.e NSE and Cisco**
 
-📝 I regularly write articles on [https://blog.italanta.net/](https://blog.italanta.net/)
+📝 I regularly write articles on https://link.medium.com/NnG9PiidHwb
 
-📄 Know about my experiences [through my CV](about/resume.md)
+📄 Know about my experiences [through my CV](https://www.linkedin.com/in/mariam-ali-71246a179)
 
-🌱 I’m currently developing **a cloud-independent library for Serverless DevOps**.
+🌱 I’m currently learning Microsoft's artificial intelligence course.
 
-⚡ Fun fact? **Find me behind the guitar 🎸, harmonica 🎺 or piano 🎹**
+⚡ Fun fact? **i love cats**
 
 ### My work
 
-🔭 I’m currently working on [Elewa](https://github.com/italanta/elewa)
+🔭 I’m currently working at Sema
 <!-- OR -->
-🔭 I’m currently working on [Kujali](https://github.com/italanta/kujali)
+🔭 I’m currently working with Italanta
 
 <!-- TODO: Update at the end of every day with your  -->
-🤝 About to score [this bounty](https://github.com/italanta/kujali/issues/17)!
-
-👨‍💻 Review my projects at [https://github.com/italanta](https://github.com/italanta)
 
 ### Interested ?
 
