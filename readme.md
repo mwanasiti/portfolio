@@ -13,7 +13,7 @@
 <h1 align="center">Hi 👋, I'm Ali Mariam</h1>
 <!-- Recent graduate from Jomo Kenyatta and Moringa School respectively where i pursued BBITM and software engineering respectively, excited to start my internship experience -->
 <!-- Example: Just graduated from Moringa, readyc  to start my first internship experience! -->
-<h3 align="center">Former of Moringa, ready to start working with iTalanta open-source!</h3>
+<h3 align="center">Former student of Moringa, ready to start working with iTalanta open-source!</h3>
 
 <br/>
 
